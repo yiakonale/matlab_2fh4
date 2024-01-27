@@ -1,4 +1,4 @@
-%Ioannis Papaspyridis - 400363946 - papaspyi
+%Ioannis Papaspyridis
 clear;
 clc;
 
