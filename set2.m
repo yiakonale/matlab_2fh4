@@ -2,6 +2,8 @@
 clc;
 clear;
 
+%set 2
+
 V=0;    %initialize volume of the closed surface to 0
 %S3=S4=S5
 S1=0;   %initialize the area of S1 to 0
