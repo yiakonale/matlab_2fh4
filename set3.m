@@ -1,4 +1,4 @@
-%Ioannis Papaspyridis - 400363946
+%Ioannis Papaspyridis
 clc; %clear the command line
 clear; %remove all previous variables
 
