@@ -13,13 +13,13 @@ phi_lower=0;    %lower bound of phi
 theta_upper=pi; %upper bound of theta
 theta_lower=0;  %lower bound of theta
 
-Number_of_r_Steps=50;                   %initialize discretization in the r direction
+Number_of_r_Steps=100;                   %initialize discretization in the r direction
 dr=(r_upper-r_lower)/Number_of_r_Steps; %The r increment
 
-Number_of_theta_Steps=50;                               %initialize the discretization in the theta direction
+Number_of_theta_Steps=100;                               %initialize the discretization in the theta direction
 dtheta=(theta_upper-theta_lower)/Number_of_theta_Steps; %The theta increment
 
-Number_of_phi_Steps=50;                         %initialize the phi discretization
+Number_of_phi_Steps=100;                         %initialize the phi discretization
 dphi=(phi_upper-phi_lower)/Number_of_phi_Steps; %The step in the phi direction
 
 WE=0;   %initialize total engery stored in the region
